@@ -1,2 +1,0 @@
-# cnum
-Cálculo Númerico
