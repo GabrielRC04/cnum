@@ -91,7 +91,6 @@ def seidel(A: np.ndarray, B: np.ndarray, k: int, TOL: float) -> np.ndarray:
             return X
     return X
 
-    import numpy as np
 from scipy.optimize import approx_fprime
 
 
